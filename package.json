@@ -1,0 +1,19 @@
+{
+  "name": "mi-ccc-electron",
+  "version": "0.0.1",
+  "description": "An electronized version of AngularJS-based frontend app of customer control center by MovingImage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dasrick/mi-ccc-electron.git"
+  },
+  "author": "Enrico Hoffmann <dasrick@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dasrick/mi-ccc-electron/issues"
+  },
+  "homepage": "https://github.com/dasrick/mi-ccc-electron#readme"
+}
